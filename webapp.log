@@ -1,0 +1,8 @@
+2021/12/09 22:26:34 main.go:15: test
+2021/12/11 22:33:34 main.go:26: sql: no rows in result set
+2021/12/11 22:41:13 main.go:27: sql: no rows in result set
+2021/12/14 22:17:21 main.go:28: sql: no rows in result set
+2021/12/15 22:51:03 users.go:85: no such table: session
+2021/12/15 22:51:24 users.go:85: no such table: session
+2021/12/15 23:26:15 route_auth.go:39: sql: no rows in result set
+2021/12/15 23:26:15 server.go:3159: http: superfluous response.WriteHeader call from todo_app/app/controllers.authenticate (route_auth.go:57)
